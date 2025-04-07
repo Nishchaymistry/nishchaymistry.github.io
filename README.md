@@ -1,11 +1,11 @@
 # ⚙️ Nishchay - Mechanical Engineer Portfolio ⚙️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishchay-mistry)
-[![Email](https://img.shields.io/badge/Email-YourEmail@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistry47@uwindsor.ca)
+[![Email](https://img.shields.io/badge/Email-mistry47@uwindsor.ca-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistry47@uwindsor.ca)
 
 ## 🚀 About Me
 
-Hello! I'm a results-driven Mechanical Engineer passionate about pushing the boundaries of engineering. With hands-on experience in R&D, vehicle integration, and quality control within the automotive and aerospace sectors, I thrive on solving complex challenges and optimizing designs. My expertise spans CAD modeling, FEA, and meticulous engineering documentation, all contributing to a proven track record of enhancing design and manufacturing processes. I'm dedicated to maintaining the highest quality standards, collaborating effectively in cross-functional teams, and currently pursuing my P.Eng. [cite: 1, 2, 3]
+Hello! I'm a results-driven Mechanical Engineer passionate about pushing the boundaries of engineering. With hands-on experience in R&D, vehicle integration, and quality control within the automotive and aerospace sectors, I thrive on solving complex challenges and optimizing designs. My expertise spans CAD modeling, FEA, and meticulous engineering documentation, all contributing to a proven track record of enhancing design and manufacturing processes. I'm dedicated to maintaining the highest quality standards, collaborating effectively in cross-functional teams, and currently pursuing my P.Eng.
 
 ## 🛠️ Key Skills
 
@@ -31,7 +31,7 @@ I bring a diverse toolkit to the table:
     * [![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white)](https://www.microsoft.com/en-us/project/)
     * [![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-US/microsoft-365/sharepoint/)
     * [![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-FF3131?style=for-the-badge&logo=adobe-acrobat&logoColor=white)](https://acrobat.adobe.com/us/en/)
-* **Soft Skills:** Teamwork, Timeliness, Leadership, Customer Service, Self-Development, Communication, Curiosity, Decision Making, Supervision, Adaptability [cite: 40, 41, 42, 43]
+* **Soft Skills:** Teamwork, Timeliness, Leadership, Customer Service, Self-Development, Communication, Curiosity, Decision Making, Supervision, Adaptability 
 
 ## 💼 Professional Experience
 
@@ -41,18 +41,18 @@ I bring a diverse toolkit to the table:
 * [LinkedIn](https://www.linkedin.com/company/matterindia/about/)
 * **Dates:** January 2023 – December 2023
 * **Responsibilities:**
-    * Developed and optimized 3D models for vehicle components using Siemens NX, CATIA V5, and PTC Creo, ensuring precise tolerances and adherence to SAE, ISO, ASME, and ARAI standards. [cite: 6]
-    * Led integration processes to align multiple subsystems with strict quality and performance criteria. [cite: 7]
-    * Conducted detailed FEA using Ansys Workbench and LS-DYNA to evaluate structural integrity, vibration responses, and thermal stresses. [cite: 8]
-    * Achieved a 15% improvement in design efficiency by optimizing load distribution. [cite: 9]
-    * Performed gearbox calculation and optimization, including Teeth Profile shift Addendum Modification, load distribution DFMEA, reducing transmission losses and enhancing torque efficiency. [cite: 10]
-    * Executed Potential/Design Failure Mode and Effects Analysis (P/DFMEA) to identify potential failure points, increasing safety and reducing failure rates by 20%. [cite: 11]
-    * Led MAGTROL testing for torque and speed verification. [cite: 12]
-    * Documented test protocols and validated component durability and performance. [cite: 13]
-    * Engaged in reverse engineering and benchmarking. [cite: 14]
-    * Conducted system interference and homologation checks. [cite: 15]
-    * Authored detailed design documentation (ECNs, revision history). [cite: 16]
-    * Prepared detailed engineering drawings and BOMs, reducing design iteration time by 15%. [cite: 17]
+    * Developed and optimized 3D models for vehicle components using Siemens NX, CATIA V5, and PTC Creo, ensuring precise tolerances and adherence to SAE, ISO, ASME, and ARAI standards.
+    * Led integration processes to align multiple subsystems with strict quality and performance criteria.
+    * Conducted detailed FEA using Ansys Workbench and LS-DYNA to evaluate structural integrity, vibration responses, and thermal stresses. 
+    * Achieved a 15% improvement in design efficiency by optimizing load distribution. 
+    * Performed gearbox calculation and optimization, including Teeth Profile shift Addendum Modification, load distribution DFMEA, reducing transmission losses and enhancing torque efficiency. 
+    * Executed Potential/Design Failure Mode and Effects Analysis (P/DFMEA) to identify potential failure points, increasing safety and reducing failure rates by 20%. 
+    * Led MAGTROL testing for torque and speed verification. 
+    * Documented test protocols and validated component durability and performance. 
+    * Engaged in reverse engineering and benchmarking. 
+    * Conducted system interference and homologation checks. 
+    * Authored detailed design documentation (ECNs, revision history). 
+    * Prepared detailed engineering drawings and BOMs, reducing design iteration time by 15%. 
 
 ### 2. 🔍 Quality Control Engineer
 
@@ -60,56 +60,56 @@ I bring a diverse toolkit to the table:
 * [LinkedIn](https://www.linkedin.com/company/a-m-designs-private-limited/about/)
 * **Dates:** January 2022 - July 2022
 * **Responsibilities:**
-    * Ensured product/process compliance with AS9100D, ISO9001, ISO14001, and ISO45001 standards. [cite: 20]
-    * Conducted in-line quality inspections using precision instruments. [cite: 21, 26]
-    * Implemented First Article Inspection and in-line quality inspections. [cite: 22, 26]
-    * Optimized NC programming codes (G-codes) to reduce manufacturing time by 20%. [cite: 23]
-    * Maintained quality control records. [cite: 24]
-    * Improved manufacturing workflows. [cite: 25]
+    * Ensured product/process compliance with AS9100D, ISO9001, ISO14001, and ISO45001 standards. 
+    * Conducted in-line quality inspections using precision instruments. 
+    * Implemented First Article Inspection and in-line quality inspections.
+    * Optimized NC programming codes (G-codes) to reduce manufacturing time by 20%. 
+    * Maintained quality control records. 
+    * Improved manufacturing workflows. 
 
 ### 3. 🧑‍🔧 Quality Control (Co-op)
 
 * **Company:** Jay Gatral Engineering, IN
 * **Dates:** May 2020 – December 2020
 * **Responsibilities:**
-    * Implemented First Article Inspection and in-line quality inspections. [cite: 26]
-    * Mastered GD&T. [cite: 27]
-    * Applied 5S and JIT principles. [cite: 28]
-    * Contributed to Six Sigma. [cite: 29]
-    * Performed quality checks and troubleshooting. [cite: 30]
-    * Developed/modified NC programs using MasterCAM. [cite: 31]
-    * Collaborated with cross-functional teams. [cite: 32]
+    * Implemented First Article Inspection and in-line quality inspections. 
+    * Mastered GD&T. 
+    * Applied 5S and JIT principles. 
+    * Contributed to Six Sigma. 
+    * Performed quality checks and troubleshooting. 
+    * Developed/modified NC programs using MasterCAM. 
+    * Collaborated with cross-functional teams. 
 
 ## 🏆 Projects
 
 ### 1. ⚡ Matter Aera 5000/5000+
 
 * **Dates:** January – December 2023
-* **Description:** Revolutionized the electric motorcycle industry. [cite: 33, 34, 35]
-* **Contributions:** Developed the 5kWh liquid-cooled Li-ion battery and the 10.5kW motor (520Nm peak torque). [cite: 36, 37]
+* **Description:** Revolutionized the electric motorcycle industry. 
+* **Contributions:** Developed the 5kWh liquid-cooled Li-ion battery and the 10.5kW motor (520Nm peak torque). 
 
 ### 2. 💡 IOT-based Smart Parking Monitoring System using MATLAB
 
 * **Dates:** July 2024 - August 2024
-* **Description:** Developed an automated parking system with no human interaction using MATLAB and ARDUINO. [cite: 38, 39]
-* **Contributions:** Automatic slot counting and payment system. [cite: 40]
+* **Description:** Developed an automated parking system with no human interaction using MATLAB and ARDUINO. 
+* **Contributions:** Automatic slot counting and payment system. 
 
 ## 🎓 Education
 
-* **Master of Engineering (Mechanical Engineering)** - University of Windsor, Windsor, ON, CA (January 2024 – April 2025) [cite: 44, 45]
-* **Bachelor of Engineering (Mechanical Engineering)** - L.J. University, Gujarat, India (January 2018 - 2022) [cite: 45, 46]
+* **Master of Engineering (Mechanical Engineering)** - University of Windsor, Windsor, ON, CA (January 2024 – April 2025)
+* **Bachelor of Engineering (Mechanical Engineering)** - L.J. University, Gujarat, India (January 2018 - 2022) 
 
 ## 📚 Relevant Coursework
 
-MATLAB coding, Ansys Simulation Structural Analysis, Quality control tools, Thermal analysis, Gearbox calculation, Product development, Vehicle integration, Homologation [cite: 44]
+MATLAB coding, Ansys Simulation Structural Analysis, Quality control tools, Thermal analysis, Gearbox calculation, Product development, Vehicle integration, Homologation 
 
 ## 🏅 Achievements
 
-* Professional Certification in Creo Parametric, Surfacing [cite: 44]
-* Project Management from Harvard Manage Mentor [cite: 44]
-* AutoCAD 2D [cite: 44]
-* MasterCAM NC Programming [cite: 44]
-* Siemens NX and Catia V5 Surface [cite: 44]
+* Professional Certification in Creo Parametric, Surfacing 
+* Project Management from Harvard Manage Mentor 
+* AutoCAD 2D
+* MasterCAM NC Programming 
+* Siemens NX and Catia V5 Surface
 
 ## 🤝 Let's Connect!
 
