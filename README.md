@@ -38,6 +38,7 @@ I bring a diverse toolkit to the table:
 ### 1. 🚀 Research & Development Engineer (Vehicle Integration Department)
 
 * **Company:** Matter Motor Works Pvt. Ltd. (Research and Development Centre), IN
+* [LinkedIn](https://www.linkedin.com/company/matterindia/about/)
 * **Dates:** January 2023 – December 2023
 * **Responsibilities:**
     * Developed and optimized 3D models for vehicle components using Siemens NX, CATIA V5, and PTC Creo, ensuring precise tolerances and adherence to SAE, ISO, ASME, and ARAI standards. [cite: 6]
@@ -56,6 +57,7 @@ I bring a diverse toolkit to the table:
 ### 2. 🔍 Quality Control Engineer
 
 * **Company:** A.M. Designs Pvt. Ltd., IN
+* [LinkedIn](https://www.linkedin.com/company/a-m-designs-private-limited/about/)
 * **Dates:** January 2022 - July 2022
 * **Responsibilities:**
     * Ensured product/process compliance with AS9100D, ISO9001, ISO14001, and ISO45001 standards. [cite: 20]
@@ -111,7 +113,8 @@ MATLAB coding, Ansys Simulation Structural Analysis, Quality control tools, Ther
 
 ## 🤝 Let's Connect!
 
-* [LinkedIn](YOUR_LINKEDIN_URL)
-* [Email](mailto:YOUR_EMAIL_ADDRESS)
+* [LinkedIn](www.linkedin.com/in/nishchay-mistry)
+* [Email](mailto:nishchaykmistry@gmail.com)
+* [Email](mailto:mistry47@uwindsor.ca)
 
 Thank you for exploring my portfolio! I'm excited about new opportunities and collaborations.
