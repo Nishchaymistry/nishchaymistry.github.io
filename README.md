@@ -1,7 +1,7 @@
 # ⚙️ Nishchay - Mechanical Engineer Portfolio ⚙️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-YourEmail@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishchay-mistry)
+[![Email](https://img.shields.io/badge/Email-YourEmail@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistry47@uwindsor.ca)
 
 ## 🚀 About Me
 
