@@ -44,7 +44,7 @@ I bring a diverse toolkit to the table:
     * Developed and optimized 3D models for vehicle components using Siemens NX, CATIA V5, and PTC Creo, ensuring precise tolerances and adherence to SAE, ISO, ASME, and ARAI standards.
     * Led integration processes to align multiple subsystems with strict quality and performance criteria.
     * Developed and validated liquid cooling solutions for battery packs using Al6061 plates and thermal interface materials to enhance heat dissipation.
-    * ntegrated low-power electrical components (BMS, controllers) into compact mechanical systems, focusing on fit, serviceability, and thermal performance.
+    * Integrated low-power electrical components (BMS, controllers) into compact mechanical systems, focusing on fit, serviceability, and thermal performance.
     * Conducted detailed FEA using Ansys Workbench and LS-DYNA to evaluate structural integrity, vibration responses, and thermal stresses. 
     * Achieved a 15% improvement in design efficiency by optimizing load distribution. 
     * Performed gearbox calculation and optimization, including Teeth Profile shift Addendum Modification, load distribution DFMEA, reducing transmission losses and enhancing torque efficiency. 
