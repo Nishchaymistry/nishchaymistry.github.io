@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishchay-mistry)
 [![Email](https://img.shields.io/badge/Email-mistry47@uwindsor.ca-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistry47@uwindsor.ca)
+[![Drive](https://img.shields.io/badge/GoogleDrive-%230077B5.svg?style=for-the-badge&logo=googledrive&logoColor=Orange)](https://drive.google.com/drive/folders/15GP_iFiVk5-R9LAzM03ylkMSkfjTxwzJ)
+
 
 ## 🚀 About Me
 
@@ -37,7 +39,8 @@ I bring a diverse toolkit to the table:
 
 ### 1. 🚀 Research & Development Engineer (Vehicle Integration Department)
 
-* **Company:** Matter Motor Works Pvt. Ltd. (Research and Development Centre), IN
+* **Company:** Matter Motor Works Pvt. Ltd. (R&D Centre), IN
+* [Website](https://www.matter.in/)
 * [LinkedIn](https://www.linkedin.com/company/matterindia/about/)
 * **Dates:** January 2023 – December 2023
 * **Responsibilities:**
@@ -59,6 +62,7 @@ I bring a diverse toolkit to the table:
 ### 2. 🔍 Quality Control Engineer
 
 * **Company:** A.M. Designs Pvt. Ltd., IN
+* [Website](https://amdindia.in/about-us/)
 * [LinkedIn](https://www.linkedin.com/company/a-m-designs-private-limited/about/)
 * **Dates:** January 2022 - July 2022
 * **Responsibilities:**
